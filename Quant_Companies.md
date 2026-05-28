@@ -5,3 +5,7 @@ A curated list of quantitative trading firms, hedge funds, HFT firms, and financ
 ## Companies
 
 * Spectral Technologies
+* Teza Technology 
+* Wincent research internship
+* Voloridge quant internship
+ 
