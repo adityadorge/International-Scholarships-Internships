@@ -543,3 +543,5 @@ https://is.mpg.de/
 * Only for candidates from EE, ECE and EI background are eligible to apply
 #### Deadline: 21 March
 
+### 43. [Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/eligibilitycriteriamet/)
+
