@@ -383,8 +383,7 @@ https://is.mpg.de/
 ### 81. [Matsuo lab japan](https://weblab.t.u-tokyo.ac.jp/en/2024-04-17/)
 * https://weblab.t.u-tokyo.ac.jp/en/joinus/students/
 
-### 82. [CSC Scholarship china](https://www.chinesescholarshipcouncil.com/)
-* fully funded scholarship
+### 82. [Research internships at KU Leuven](https://www.kuleuven.be/global/going-abroad/incomingstudentmobility/researchinternships) 
 
 # -------- For Indian Internships (For 2nd Year and 3rd Year) --------
 
@@ -592,6 +591,8 @@ https://is.mpg.de/
 - [Global Research Opportunities for the South](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=F&daad=&intention=2&q=&page=2&detail=57862427)
 - [European Union: Erasmus+ Mobility Programme for Higher Education Students](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=F&daad=&intention=2&q=&page=3&detail=10000102)
 - [Indo-German Science and Technology Centre (IGSTC): Paired Early Career Fellowship in Applied Research (PECFAR)](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=F&daad=&intention=2&q=&page=4&detail=10000562)
-- 
+
+### 21. [Chinese Government Scholarships](https://www.cucas.cn/china_scholarship/about_chinascholarship)
+- [https://www.chinesescholarshipcouncil.com/] 
  
 
