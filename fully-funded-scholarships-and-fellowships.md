@@ -1,8 +1,4 @@
-Here is a cleanly structured and standardized markdown catalog of fully funded scholarships and fellowships based on your list.
-
----
-
-# Fully Funded Scholarships & Fellowships
+# Fully Funded Scholarships
 
 ### Global & Multi-Country Programs
 
@@ -139,3 +135,104 @@ Here is a cleanly structured and standardized markdown catalog of fully funded s
 * **Official Sites:** [CUCAS Portal](https://www.cucas.cn/china_scholarship/about_chinascholarship) | [CSC Official Portal](https://www.chinesescholarshipcouncil.com/)
 * **Target Degree:** Undergraduate, Master’s, PhD
 * **Coverage:** Full tuition, accommodation, comprehensive medical insurance, and monthly living allowance
+
+# Fully Funded Fellowships
+
+### AI, Safety & Tech Policy Fellowships
+
+* **[ERA Fellowship](https://erafellowship.org/fellowship)**
+* **Focus:** AI alignment, technical governance, and existential risk research.
+* **Format:** Intensive research fellowship with stipend, compute resources, and direct expert mentorship.
+
+
+* **[Global AI Safety Fellowship](https://globalaisafetyfellowship.com/)**
+* **Focus:** Technical safety and governance research for frontier AI models.
+* **Format:** Project-based program offering dedicated mentorship, peer feedback, and financial stipends.
+
+
+* **[The Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship)**
+* **Focus:** Technical safety research and regional AI governance strategies in Southeast Asia.
+* **Format:** Intensive training, research projects, and networking with regional AI safety researchers.
+
+
+* **[PIBBSS Fellowship](https://princint.ai/programs/fellowship/)**
+* **Focus:** Interdisciplinary AI safety research leveraging biology, complex systems, cognitive science, and social sciences.
+* **Format:** Remote-friendly, fully funded stipend with mentorship for cross-disciplinary researchers.
+
+
+* **[GovAI Opportunities](https://www.governance.ai/opportunities)** *(Centre for the Governance of AI)*
+* **Focus:** AI governance policy, international regulation, and catastrophic risk mitigation.
+* **Format:** Research positions and fellowships with stipends, housing support, and direct policy exposure.
+
+
+* **[IAPS AI Policy Fellowship](https://www.iaps.ai/fellowship)** *(Institute for AI Policy and Strategy)*
+* **Focus:** High-impact AI policy development, national security implications, and international governance.
+* **Format:** Full-time policy research with stipends, mentorship, and direct connections to key decision-makers.
+
+
+* **[CIP Research Fellowship](https://www.cip.org/research-fellowship)** *(Collective Intelligence Project)*
+* **Focus:** Democratic governance models for emerging tech, public AI infrastructure, and collective decision-making.
+* **Format:** Funded research position with stipend and project support to build new governance primitives.
+
+
+* **[AI Societal Impact Lab Fellowship](https://www.aisocietalimpactlab.com/)**
+* **Focus:** Examining the societal, ethical, and economic disruptions of advanced AI systems.
+* **Format:** Multidisciplinary research cohort focusing on actionable policy recommendations and community impact.
+
+
+
+---
+
+### Engineering, AI Research & Open Source
+
+* **[Memories.ai Research Fellowship](https://memories.ai/research-fellowship)**
+* **Focus:** Computer vision, video understanding, and Large Visual Memory Models (LVMM).
+* **Format:** 12-week remote-friendly sprint for Master's/PhD/early-career researchers; includes **$1,000 USD/month stipend**, GPU compute, and publication support.
+
+
+* **[Sequoia OSS Fellowship](https://sequoiacap.com/oss)**
+* **Focus:** Supporting high-potential open-source software creators and infrastructure maintainers.
+* **Format:** Equity-free funding, mentorship from Sequoia partners, and access to a founder network.
+
+
+* **[MLH Fellowship](https://fellowship.mlh.com/)**
+* **Focus:** Hands-on experience in Software Engineering, Production Engineering (SRE), and Open Source.
+* **Format:** 12-week remote internship alternative with a need-based stipend, peer pods, and mentor code reviews.
+
+
+* **[Block Builder Fellowship](https://block.xyz/builder-fellowship)**
+* **Focus:** Bitcoin, decentralized systems, open-source protocols, and financial inclusion tools.
+* **Format:** Funded fellowship with technical mentorship, code contributions, and direct project backing.
+
+
+* **[MicroAGI Fellowship](https://www.microagi.ai/fellowship)**
+* **Focus:** Autonomous AI agents, lightweight model architectures, and edge deployment.
+* **Format:** Project-focused builder track providing compute resources, grant support, and technical guidance.
+
+
+
+---
+
+### Academic, Policy & Mid-Career Fellowships
+
+* **[CISAC Fellowships](https://cisac.fsi.stanford.edu/cisac-fellowships#tab-117160)** *(Stanford University)*
+* **Focus:** International security, cybersecurity, nuclear risk, and technology policy.
+* **Format:** In-residence fellowship at Stanford with full stipend, health insurance, and academic office space.
+
+
+* **[Radcliffe Fellowship](https://www.radcliffe.harvard.edu/radcliffe-fellowship)** *(Harvard University)*
+* **Focus:** Humanities, sciences, social sciences, and creative arts.
+* **Format:** Full academic year at Harvard, providing up to **$78,000 stipend**, project funds, and office space.
+
+
+* **[Hubert H. Humphrey Fellowship Program](https://www.humphreyfellowship.org/how-to-apply/eligibility/)**
+* **Focus:** Mid-career professionals in public service, policy, leadership, and community development.
+* **Format:** Fully funded 10-month academic and professional stay in the US (tuition, living stipend, airfare, and health coverage).
+
+
+
+---
+
+
+
+
