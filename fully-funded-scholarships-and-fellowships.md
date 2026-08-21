@@ -229,7 +229,12 @@
 * **Focus:** Mid-career professionals in public service, policy, leadership, and community development.
 * **Format:** Fully funded 10-month academic and professional stay in the US (tuition, living stipend, airfare, and health coverage).
 
+* **[coefficientgiving](https://coefficientgiving.org/ai-fellowship/)
+* **Focus** students in any year of their PhD.
 
+* **[MATS Fellowship](https://www.matsprogram.org/)**
+* **Focus**: Researchers (master, Phd, individual researcher)
+* **Neel Nandas's MAT fellowship   
 
 ---
 
